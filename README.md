@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Dammar Singh Rana
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me simply contact with my gmail dammarrana093@gmail.com
-
-<!---
-dammar093/dammar093 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am  <i>Dammar Singh Rana </i>. I'm Learning a Frontend Development. I'm highly skilled with JavaScript  💻 and all its associated runtimes. I've build some frontend  project in the past and have built applications from scratch with modern web technologies. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. I'm a huge Productivity nerd who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.

@@ -6,7 +6,6 @@ I am  <i>Dammar Singh Rana </i>. I'm working as a a <b> Frontend Developer</b>. 
   <li>Bootstrap</li>
   <li>Tailwind Css</li>
   <li>PHP</li>
-  <li>Java</li>
 </ul>
 <div style="display:flex; gap:10px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width=50 height=50/>

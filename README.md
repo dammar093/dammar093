@@ -19,7 +19,7 @@ I am  <i>Dammar Singh Rana </i>. I'm working as a a <b> Frontend Developer</b>. 
 <ul>
   <li>Typing master:- <a href ="https://dammar093.github.io/typingMaster/">[link] </a></li>
   <li>E-sdound store:- <a href ="https://dammar093.github.io/eSound/">[link] </a></li>
-  <li>Facebook clone:- <a href ="https://dammar093.github.io/facebook-clone/">[link] </a></li>
+  <li>Facebook clone:- <a href ="https://facebook-clone-lilac-ten.vercel.app/">[link] </a></li>
   <li>My college website:- <a href ="https://dammar093.github.io/jmc3.0/">[link] </a></li>
   <li>e-commerce:- <a href ="https://e-commerce-five-rust-37.vercel.app/">[link] </a></li>
 </ul>

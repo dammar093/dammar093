@@ -20,7 +20,7 @@ I it's me<b> <i>Dammar Singh Rana </i></b>. I'm working as  a <b> Frontend Devel
 
 ## 🎊Few Awesome Projects
 <ul>
-  <li>e-commerce:-  <a href="https://github.com/dammar093/e-commerce">[link]</a> <a href ="https://e-commerce-phi-fawn.vercel.app/">[live] </a></li>
+  <li>dyams-shop:-  <a href="https://github.com/dammar093/dyams-shop">[link]</a> <a href ="https://dyams-shop.vercel.app/">[live] </a></li>
   <li>E-sdound store:- <a href="https://github.com/dammar093/eSound">[link]</a> <a href ="https://dammar093.github.io/eSound/">[live] </a></li>
   <li>My college website:-<a href="https://github.com/dammar093/jmc3.0">[link]</a> <a href ="https://dammar093.github.io/jmc3.0/">[live] </a></li>
   <li>Typing master:-<a href="https://github.com/dammar093/typingMaster">[link]</a> <a href ="https://dammar093.github.io/typingMaster/">[live] </a></li>

@@ -1,31 +1,30 @@
-# Hello! 👋👋
+<h1 align="center">Hi 👋, I'm Dammar Singh Rana</h1>
+<h3 align="center">A passionate software developer from Nepal. My expertise is more on web development and design using JavaScript and its related framework React.js, Next.js, Express.js etc.</h3>
 
-I it's me<b> <i>Dammar Singh Rana </i></b>. I'm working as  a <b> Frontend Developer</b>. I'm highly skilled with <b>JavaScript</b>  💻 and all its associated runtimes. I've build some frontend  project in the past and have built applications from scratch with modern web technologies. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. I'm a huge Productivity nerd who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dammar093&label=Profile%20views&color=0e75b6&style=flat" alt="dammar093" /> </p>
 
-## 🌟Technologies I've worked with:
-<ul>
-  <li>React</li>
-  <li>Bootstrap</li>
-  <li>Tailwind Css</li>
-  <li>PHP</li>
-</ul>
-<div style="display:flex; gap:10px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width=50 height=50/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dammar093" alt="dammar093" /></a> </p>
 
-  <img src="https://camo.githubusercontent.com/3a3d4ec74a7f0086704279ea54b8a87e46cec2e6d1fcae6d8e6e9fda57054b2d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62322f426f6f7473747261705f6c6f676f2e737667" width=50 height=50/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width=50 height=50/>
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" width=50 height=50/>
-<img src="https://www.drupal.org/files/project-images/screenshot_361.png" width=50 height=50/>
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width=50 height=50/>
-</div>
+- 🔭 I’m currently working on [Real State](real-state-five-olive.vercel.app)
 
-## 🎊Few Awesome Projects
-<ul>
-  <li>dyams-shop:-  <a href="https://github.com/dammar093/dyams-shop">[link]</a> <a href ="https://dyams-shop.vercel.app/">[live] </a></li>
-  <li>admin-dashboard:- <a href="https://github.com/dammar093/admin-dashboard">[link]</a>  <a href ="https://admin-dashboard-nu-plum.vercel.app/">[live] </a></  </li>
-  <li>E-sdound store:- <a href="https://github.com/dammar093/eSound">[link]</a> <a href ="https://dammar093.github.io/eSound/">[live] </a></li>
-  <li>My college website:-<a href="https://github.com/dammar093/jmc3.0">[link]</a> <a href ="https://dammar093.github.io/jmc3.0/">[live] </a></li>
-  <li>Typing master:-<a href="https://github.com/dammar093/typingMaster">[link]</a> <a href ="https://dammar093.github.io/typingMaster/">[live] </a></li>
-  <li>Facebook clone:-<a href="https://github.com/dammar093/facebook-clone">[link]</a> <a href ="https://facebook-clone-git-main-dammar-singh-rs-projects.vercel.app/">[live] </a></li>
+- 🌱 I’m currently learning **Docker and Python**
 
-</ul>
+- 👨‍💻 All of my projects are available at [https://dammar.vercel.app/](https://dammar.vercel.app/)
+
+- 💬 Ask me about **JavaScript, React.js, Next.js, Express.js**
+
+- 📫 How to reach me **dammarrana093@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dammar-rana-983077238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dammar-rana-983077238" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dammar093&show_icons=true&locale=en&layout=compact" alt="dammar093" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dammar093&show_icons=true&locale=en" alt="dammar093" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dammar093&" alt="dammar093" /></p>

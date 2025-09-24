@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Docker and Python**
 
-- 👨‍💻 All of my projects are available at [https://dammar.vercel.app/](https://dammar.vercel.app/)
-
 - 💬 Ask me about **JavaScript, React.js, Next.js, Express.js**
 
 - 📫 How to reach me **dammarrana093@gmail.com**
